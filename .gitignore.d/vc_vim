@@ -1,0 +1,5 @@
+*
+!/.gitignore.d/vc_vim
+!/.local/share/applications/vim.desktop
+!/.local/share/icons/vim.png
+!/.vimrc
