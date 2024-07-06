@@ -1,5 +1,10 @@
 *
+!/.gitignore.d
 !/.gitignore.d/vc_vim
+!/.local
+!/.local/share
+!/.local/share/applications
 !/.local/share/applications/vim.desktop
+!/.local/share/icons
 !/.local/share/icons/vim.png
 !/.vimrc
