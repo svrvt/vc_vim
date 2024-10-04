@@ -2,7 +2,8 @@
 !/.config
 !/.config/mr
 !/.config/mr/available.d
-!/.config/mr/available.d/vc_vim
+!/.config/mr/available.d/vc
+!/.config/mr/available.d/vc/vc_vim
 !/.gitignore.d
 !/.gitignore.d/vc_vim
 !/.local
